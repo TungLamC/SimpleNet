@@ -1,18 +1,12 @@
 # SimpleNet
 
-***
-
 一个简易的游戏服务器底层通信库，使用C#的 BeginAccept / EndAccpet 以及 BeginReceive / EndReceive 实现异步接收
 
 # 使用指南
 
-***
-
 双击SimpleNet.sln使用visual studio打开该项目，并右键生成，将生成的SimpleNet.dll导入到项目中即可使用
 
 # 使用步骤
-
-***
 
 ### 引入命名空间
 
